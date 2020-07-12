@@ -1,0 +1,34 @@
+body {
+    background-color: azure;
+  }
+  .common-css table{  
+    border: 2px solid LightSlateGray;
+    color: midnightblue;
+  }
+  .common-css td {
+    background-color: lightblue;
+    padding: 10px;
+  }
+  .common-css th {
+    background-color: lightskyblue;
+  }
+  .table-css table{
+    border: 3px solid yellowgreen;
+    border-collapse: collapse;
+  }
+  .table-css td {
+    background-color: palegreen;
+    padding: 10px;
+    border: 2px solid white;
+  }
+  .table-css th {
+    background-color: mediumspringgreen;
+    border: 2px solid white;
+  }
+  h1 {
+    text-align: center;
+  }
+  .monospace {
+    font-family: Lucida Console, Courier, monospace;
+    font-size: 14px;
+  }
